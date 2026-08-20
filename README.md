@@ -4,11 +4,11 @@
 
 ## What I build.
 
-**Analytics & ML.** Building predictive models and pipelines on real business data. *Python · scikit-learn · pandas*
+**Analytics & ML:** Building predictive models and pipelines on real business data. 
 
-**Cloud data engineering.** Designing pipelines from raw sources to analytics-ready tables. *PySpark · GCS · Snowflake · Tableau*
+**Cloud data engineering:** Designing pipelines from raw sources to analytics-ready tables. 
 
-**AI agents.** Building multi-agent LLM systems for real-world decision-making. *LangGraph · API · Anthropic · OpenAI*
+**AI agents:** Building multi-agent LLM systems for real-world decision-making. 
 
 ---
 
