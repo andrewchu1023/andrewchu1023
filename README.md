@@ -12,4 +12,4 @@
 
 ---
 
-📍 [Los Angeles]
+📍Los Angeles
