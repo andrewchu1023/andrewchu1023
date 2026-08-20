@@ -1,15 +1,10 @@
 # Andrew Chu
-
-**Builds across data pipelines, ML, and LLM agents.**
+**Working on data pipelines, analytics, and LLM agents.**
 
 ## What I build.
-
-**Analytics & ML:** Building predictive models and pipelines on real business data. 
-
-**Cloud data engineering:** Designing pipelines from raw sources to analytics-ready tables. 
-
-**AI agents:** Building multi-agent LLM systems for real-world decision-making. 
+**Analytics:** Working on predictive modeling and data pipelines.
+**Cloud data engineering:** Designing pipelines from raw sources to analytics-ready tables.
+**AI agents:** Designing multi-agent LLM systems for real-world decision-making.
 
 ---
-
-📍Los Angeles
+📍 Los Angeles
