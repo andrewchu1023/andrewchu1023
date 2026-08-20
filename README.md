@@ -4,7 +4,7 @@
 
 ## What I build.
 
-**Analytics & ML.** Building predictive models and pipelines on real business data. *Python · scikit-learn · pandas 
+**Analytics & ML.** Building predictive models and pipelines on real business data. *Python · scikit-learn · pandas*
 
 **Cloud data engineering.** Designing pipelines from raw sources to analytics-ready tables. *PySpark · GCS · Snowflake · Tableau*
 
