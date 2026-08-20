@@ -1,16 +1,17 @@
-## Hi there 👋
+# Andrew Chu
 
-<!--
-**andrewchu1023/andrewchu1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Builds across data pipelines, ML, and LLM agents. Ships from prototype to production.**
 
-Here are some ideas to get you started:
+## What I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Analytics & ML.** Building predictive models and pipelines on real business data. *Python · scikit-learn · pandas · [add tools you use]*
+
+**Cloud data engineering.** Designing pipelines from raw sources to analytics-ready tables. *PySpark · GCS · Snowflake · Tableau*
+
+**AI agents.** Building multi-agent LLM systems for real-world decision-making. *LangGraph · Python · [LLM provider you used]*
+
+**Shipping.** Owning the full path from prototype to live deployment.
+
+---
+
+📍 [Your city]
